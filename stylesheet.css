@@ -1037,11 +1037,10 @@ a.thumbnail img {
 
 .link .title {
     margin: -2px 0 0;
-    font-size: 18px;
+    font-size: 16px;
     font-family: Arial,sans-serif;
     overflow: visible;
-    transition: all .15s ease;
-    line-height: 1.33;
+    line-height: inherit;
 }
 
 body .content .sitetable .link .title a:hover {
@@ -3621,7 +3620,7 @@ body>.content {
     width: 88px;
     height: 88px;
     display: block;
-    background-image: url(%%earwolf-shows%%);
+    background-image: url(%%earwolf-shows-oct2016%%);
     background-repeat: no-repeat;
     text-indent: -9999px;
 }
@@ -3674,55 +3673,55 @@ body>.content {
     background-position: -176px -264px;
 }
 
-.side a[href^="http://www.earwolf.com/show/hard-nation/"] {
+.side a[href^="http://www.earwolf.com/show/handsome-rambler/"] {
     background-position: -0 -352px;
 }
 
-.side a[href^="http://www.earwolf.com/show/hello-from-the-magic-tavern/"] {
+.side a[href^="http://www.earwolf.com/show/hard-nation/"] {
     background-position: -88px -352px;
 }
 
-.side a[href^="http://www.earwolf.com/show/hollywood-handbook/"] {
+.side a[href^="http://www.earwolf.com/show/hello-from-the-magic-tavern/"] {
     background-position: -176px -352px;
 }
 
-.side a[href^="http://www.earwolf.com/show/how-did-this-get-made/"] {
+.side a[href^="http://www.earwolf.com/show/hollywood-handbook/"] {
     background-position: -0 -440px;
 }
 
-.side a[href^="http://www.earwolf.com/show/improv4humans/"] {
+.side a[href^="http://www.earwolf.com/show/how-did-this-get-made/"] {
     background-position: -88px -440px;
 }
 
-.side a[href^="http://www.earwolf.com/show/i-was-there-too/"] {
+.side a[href^="http://www.earwolf.com/show/improv4humans/"] {
     background-position: -176px -440px;
 }
 
-.side a[href^="http://www.earwolf.com/show/katie-couric/"] {
+.side a[href^="http://www.earwolf.com/show/i-was-there-too/"] {
     background-position: -0 -528px;
 }
 
-.side a[href^="http://www.earwolf.com/show/kevin-pollaks-chat-show/"] {
+.side a[href^="http://www.earwolf.com/show/katie-couric/"] {
     background-position: -88px -528px;
 }
 
-.side a[href^="http://www.earwolf.com/show/the-longest-shortest-time/"] {
+.side a[href^="http://www.earwolf.com/show/kevin-pollaks-chat-show/"] {
     background-position: -176px -528px;
 }
 
-.side a[href^="http://www.earwolf.com/show/never-not-funny/"] {
+.side a[href^="http://www.earwolf.com/show/the-longest-shortest-time/"] {
     background-position: -0 -616px;
 }
 
-.side a[href^="http://www.earwolf.com/show/omfg/"] {
+.side a[href^="http://www.earwolf.com/show/never-not-funny/"] {
     background-position: -88px -616px;
 }
 
-.side a[href^="http://www.earwolf.com/show/pistol-shrimps-radio/"] {
+.side a[href^="http://www.earwolf.com/show/omfg/"] {
     background-position: -176px -616px;
 }
 
-.side a[href^="http://www.earwolf.com/show/question-of-the-day/"] {
+.side a[href^="http://www.earwolf.com/show/pistol-shrimps-radio/"] {
     background-position: -0 -704px;
 }
 
@@ -3730,40 +3729,44 @@ body>.content {
     background-position: -88px -704px;
 }
 
-.side a[href^="http://www.earwolf.com/show/ronna-beverly/"] {
+.side a[href^="http://www.earwolf.com/episode/the-oh-hello-show/"] {
     background-position: -176px -704px;
 }
 
-.side a[href^="http://www.earwolf.com/show/sklarbro-country/"] {
+.side a[href^="http://www.earwolf.com/show/ronna-beverly/"] {
     background-position: -0 -792px;
 }
 
-.side a[href^="http://www.earwolf.com/show/spontaneanation-with-paul-f-tompkins/"] {
+.side a[href^="http://www.earwolf.com/show/sklarbro-country/"] {
     background-position: -88px -792px;
 }
 
-.side a[href^="http://www.earwolf.com/show/u-talkin-u2-to-me/"] {
+.side a[href^="http://www.earwolf.com/show/spontaneanation-with-paul-f-tompkins/"] {
     background-position: -176px -792px;
 }
 
-.side a[href^="http://www.earwolf.com/show/who-charted/"] {
+.side a[href^="http://www.earwolf.com/show/u-talkin-u2-to-me/"] {
     background-position: -0 -880px;
 }
 
-.side a[href^="http://www.earwolf.com/show/with-special-guest-lauren-lapkus/"] {
+.side a[href^="http://www.earwolf.com/show/who-charted/"] {
     background-position: -88px -880px;
 }
 
-.side a[href^="http://www.earwolf.com/show/wolf-den/"] {
+.side a[href^="http://www.earwolf.com/show/with-special-guest-lauren-lapkus/"] {
     background-position: -176px -880px;
 }
 
-.side a[href^="http://www.earwolf.com/show/womp-it-up/"] {
+.side a[href^="http://www.earwolf.com/show/wolf-den/"] {
     background-position: -0 -968px;
 }
 
-.side a[href^="http://www.earwolf.com/show/yo-is-this-racist/"] {
+.side a[href^="http://www.earwolf.com/show/womp-it-up/"] {
     background-position: -88px -968px;
+}
+
+.side a[href^="http://www.earwolf.com/show/yo-is-this-racist/"] {
+    background-position: -176px -968px;
 }
 
 /* --- End Shows Table --- */
